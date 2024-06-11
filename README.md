@@ -24,8 +24,6 @@ I am looking to collaborate on projects related to:
 ### Contact
 You can reach me via:
 - **Email**: [olamahmoudj@yahoo.com](mailto:olamahmoudj@yahoo.com)
-- **Location**: Al-Sawahreh, Jerusalem, Palestine
-- **Phone**: +970 56 926 2368
 
 ### Pronouns
 - She/Her
