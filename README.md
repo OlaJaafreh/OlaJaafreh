@@ -1,37 +1,58 @@
-# Hi there, I'm Ola Ja'afreh 👋
+# Welcome to My Profile! 👋
 
-### About Me
-I'm an Electrical Engineer and Software Developer with a strong background in electrical design, teaching, and CNC machine operations. My professional journey has taken me through various roles where I've honed my skills and contributed to impactful projects.
+## Full-Stack Web Developer 💻
 
-### Interests
-- **Stock Market**: I have a keen interest in the dynamics of the financial markets.
-- **Forensic Science**: The intersection of science and law fascinates me, and I enjoy learning about forensic methodologies.
-- **Video Game Development**: Creating immersive and interactive experiences through game development is a passion of mine.
-- **Business**: I am intrigued by business strategies and the mechanisms that drive successful enterprises.
+I am passionate about problem-solving and thrive on creating innovative websites and applications. With a keen eye for detail, I leverage my analytical skills to deliver efficient and creative solutions.
 
-### Current Learning
-I am currently expanding my knowledge in:
-- **Advanced Python Programming**: Enhancing my skills in software development and data analysis.
-- **Django Framework**: Building robust web applications with Django.
-- **Machine Learning**: Exploring the fundamentals and applications of machine learning.
+## 👩‍💻 About Me
 
-### Collaboration
-I am looking to collaborate on projects related to:
-- Web Development (Flask, Django)
-- Electrical Engineering
-- Data Analysis and Machine Learning
+![Engineer](https://img.icons8.com/ios/50/000000/engineer.png)  
+I hold a degree in Electrical Engineering and am committed to continuous learning and innovation. Currently, I am enhancing my skills through a course at Axsos Academy, delving into the latest technologies and trends in the industry.
 
-### Contact
-You can reach me via:
-- **Email**: [olamahmoudj@yahoo.com](mailto:olamahmoudj@yahoo.com)
+## 💼 Technical Skills
 
-### Pronouns
-- She/Her
+I excel in developing robust solutions using a variety of programming languages and technologies, including:
 
-### Fun Fact
-I have a publication in IEEE Access, and I value integrity highly in all my endeavors.
+### Languages
+- ![Python](https://img.icons8.com/ios/50/000000/python.png) Python
+- ![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) JavaScript
+- ![Java](https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png) Java
+- ![SQL](https://img.icons8.com/ios/50/000000/sql.png) SQL
 
-<!---
-OlaJaafreh/OlaJaafreh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tools
+- ![Code::Blocks](https://img.icons8.com/ios/50/000000/code.png) Code::Blocks
+- ![Spring Tool Suite](https://img.icons8.com/ios/50/000000/spring.png) Spring Tool Suite (STS)
+- ![Trello](https://img.icons8.com/ios/50/000000/trello.png) Trello
+- ![Figma](https://img.icons8.com/ios/50/000000/figma.png) Figma
+- ![Bubble](https://img.icons8.com/ios/50/000000/bubble.png) Bubble
+
+### Databases
+- ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png) MySQL
+- ![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png) MongoDB
+- ![SQLite](https://img.icons8.com/ios/50/000000/sqlite.png) SQLite
+
+### Frameworks/Libraries
+- ![React](https://img.icons8.com/ios/50/000000/react-native.png) React
+- ![Django](https://img.icons8.com/ios/50/000000/django.png) Django
+- ![Flask](https://img.icons8.com/ios/50/000000/flask.png) Flask
+- ![Jinja2](https://img.icons8.com/ios/50/000000/template.png) Jinja2
+- ![AJAX](https://img.icons8.com/ios/50/000000/ajax.png) AJAX
+- ![Chart.js](https://img.icons8.com/ios/50/000000/chart.png) Chart.js
+
+These tools and technologies empower me to bring ideas to life and tackle complex challenges with both elegance and efficiency.
+
+## 🌱 Currently Learning
+- ![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png) MongoDB
+- ![Express.js](https://img.icons8.com/ios/50/000000/express.png) Express.js
+
+## 🤝 Get in Touch
+
+I am always eager to connect with fellow tech enthusiasts, collaborate on exciting projects, or discuss the latest technological advancements. Feel free to reach out for any questions, feedback, or just to chat!
+
+- 💬 Let’s connect and build something amazing together! 💡
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&hide_title=true&layout=compact)
