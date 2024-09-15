@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ola Jaafreh</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+%2C+I%27m+Ola+Jaafreh!;A+passionate+full+stack+developer!;Welcome+to+my+profile!;Feel+free+to+explore!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
+</p>
+
 
 - 🔭 I’m currently working on [project](https://github.com/olajaafreh)
 
