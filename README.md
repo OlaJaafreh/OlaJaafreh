@@ -119,12 +119,13 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=olajaafreh&show_icons=true&hide_title=false&count_private=true&hide=prs&theme=merko" alt="Ola's GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=olajaafreh&theme=dark" alt="Ola's GitHub Streak"/>
-
+    <img src="https://github-readme-stats.vercel.app/api?username=olajaafreh&show_icons=true&hide_title=false&count_private=true&hide=prs&hide_border=false&theme=radical" alt="Ola Jaafreh's GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=olajaafreh&theme=radical&hide_border=false" alt="Ola Jaafreh's GitHub Streak">
 </p>
+
 
 <h3 align="left">My Top Languages:</h3>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olajaafreh&layout=compact&hide_title=true&theme=merko" alt="Top Languages"/>
 </p>
+
