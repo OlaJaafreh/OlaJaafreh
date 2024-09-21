@@ -105,9 +105,6 @@
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
-    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/webpack/webpack-icon.svg" alt="webpack" width="40" height="40"/>
-    </a>
     <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
     </a>
