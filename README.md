@@ -4,112 +4,110 @@
 </p>
 
 
-- 🔭 I’m currently working on [my project](https://github.com/olajaafreh)
-- 🌱 I’m currently learning **Flutter**
-- 👯 I’m looking to collaborate on [my project](https://github.com/olajaafreh)
-- 🤝 I’m looking for help with [my project](https://github.com/olajaafreh)
-- 📫 How to reach me: **[olamahmoudj@yahoo.com](mailto:olamahmoudj@yahoo.com)**
-- ⚡ Fun fact: **I paint with charcoal**
+- 🔭 I’m passionate about developing innovative software solutions.
+- 🌱 Currently expanding my skills in **Flutter**.
+- 📫 Feel free to reach me at: **[olamahmoudj@yahoo.com](mailto:olamahmoudj@yahoo.com)**
+- ⚡ Fun fact: **I enjoy painting with charcoal.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/ola-jaafreh-35379827b" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+        <img src="https://img.shields.io/badge/LinkedIn-Ola%20Ja'afreh-blue" alt="LinkedIn" />
     </a>
     <a href="https://www.hackerrank.com/olamahmoudj" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+        <img src="https://img.shields.io/badge/HackerRank-Ola%20Ja'afreh-brightgreen" alt="HackerRank" />
     </a>
     <a href="https://www.leetcode.com/olamah" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+        <img src="https://img.shields.io/badge/LeetCode-Ola%20Ja'afreh-yellow" alt="LeetCode" />
     </a>
 </p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Java-v17-orange?logo=java" alt="Java" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Python-v3.9-blue?logo=python" alt="Python" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/JavaScript-vES6-yellow?logo=javascript" alt="JavaScript" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/MySQL-v8.0-blue?logo=mysql" alt="MySQL" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/MongoDB-v4.4-green?logo=mongodb" alt="MongoDB" />
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/SQLite-v3.35-blue?logo=sqlite" alt="SQLite" />
     </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/MATLAB-vR2021b-red" alt="MATLAB" />
     </a>
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Arduino-v1.8.13-lightgreen" alt="Arduino" />
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/AWS-v1.0-orange" alt="AWS" />
     </a>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Babel-v7.14.3-purple" alt="Babel" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Bootstrap-v5.0.0-lightblue" alt="Bootstrap" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/CSS-v3.0-blue" alt="CSS3" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Django-v3.2-green" alt="Django" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Express-v4.17.1-blue" alt="Express" />
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Figma-v1.0-lightpink" alt="Figma" />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Flask-v2.0.1-green" alt="Flask" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Git-v2.30.0-orange" alt="Git" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/HTML-v5.0-blue" alt="HTML5" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Node.js-v14.17.0-green" alt="Node.js" />
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Pandas-v1.2.1-blue" alt="Pandas" />
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Postman-v8.5.0-lightblue" alt="Postman" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/React-v17.0.1-blue" alt="React" />
     </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/React%20Native-v0.64.0-green" alt="React Native" />
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Spring-v5.3.6-lightgreen" alt="Spring" />
     </a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/TensorFlow-v2.5.0-blue" alt="TensorFlow" />
     </a>
     <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Ubuntu-v20.04-orange" alt="Ubuntu" />
     </a>
     <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/VSCode-v1.58.0-lightblue" alt="VSCode" />
     </a>
 </p>
 
