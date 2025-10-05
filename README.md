@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ola Jaafreh</h1>
-<h3 align="center">💻 Full Stack Developer | 🌍 Based in Palestine</h3>
+<h3 align="center">💻 Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+about+building+scalable+apps;Lifelong+learner+and+problem+solver;Loves+turning+ideas+into+reality" alt="Typing SVG">
