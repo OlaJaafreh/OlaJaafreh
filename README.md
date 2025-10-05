@@ -1,126 +1,143 @@
 <h1 align="center">Hi 👋, I'm Ola Jaafreh</h1>
+<h3 align="center">💻 Full Stack Developer | 🌍 Based in Palestine</h3>
+
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+%2C+I%27m+Ola+Jaafreh!;A+passionate+full+stack+developer!;Welcome+to+my+profile!;Feel+free+to+explore!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+about+building+scalable+apps;Lifelong+learner+and+problem+solver;Loves+turning+ideas+into+reality" alt="Typing SVG">
 </p>
 
+---
 
-- 🔭 I’m passionate about developing innovative software solutions.
-- 🌱 Currently expanding my skills in **Flutter**.
-- 📫 Feel free to reach me at: **[olamahmoudj@yahoo.com](mailto:olamahmoudj@yahoo.com)**
-- ⚡ Fun fact: **I enjoy painting with charcoal.**
+### 👩‍💻 About Me
+- 🔭 Passionate about **developing innovative software solutions**  
+- 🌱 Currently learning **Flutter** to expand mobile development skills  
+- 🎨 Fun fact: I enjoy **charcoal painting**  
+- 📫 Reach me at: **[olamahmoudj@yahoo.com](mailto:olamahmoudj@yahoo.com)**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/ola-jaafreh-35379827b" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Ola%20Ja'afreh-blue" alt="LinkedIn" />
-    </a>
-    <a href="https://www.hackerrank.com/olamahmoudj" target="blank">
-        <img src="https://img.shields.io/badge/HackerRank-Ola%20Ja'afreh-brightgreen" alt="HackerRank" />
-    </a>
-    <a href="https://www.leetcode.com/olamah" target="blank">
-        <img src="https://img.shields.io/badge/LeetCode-Ola%20Ja'afreh-yellow" alt="LeetCode" />
-    </a>
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/ola-jaafreh-35379827b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/olamahmoudj" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/olamah" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Java-v17-orange?logo=java" alt="Java" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Python-v3.9-blue?logo=python" alt="Python" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/JavaScript-vES6-yellow?logo=javascript" alt="JavaScript" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/MySQL-v8.0-blue?logo=mysql" alt="MySQL" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/MongoDB-v4.4-green?logo=mongodb" alt="MongoDB" />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/SQLite-v3.35-blue?logo=sqlite" alt="SQLite" />
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/MATLAB-vR2021b-red" alt="MATLAB" />
-    </a>
+---
+
+## 🚀 Languages & Tools
+
+<table align="center">
+<tr>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=python" width="45"/><br/>Python
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=java" width="45"/><br/>Java
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=js" width="45"/><br/>JavaScript
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=flutter" width="45"/><br/>Flutter
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=react" width="45"/><br/>React
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=django" width="45"/><br/>Django
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=flask" width="45"/><br/>Flask
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br/>Node.js
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/>MongoDB
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/>MySQL
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=sqlite" width="45"/><br/>SQLite
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=matlab" width="45"/><br/>MATLAB
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=spring" width="45"/><br/>Spring
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br/>TensorFlow
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=pandas" width="45"/><br/>Pandas
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br/>Bootstrap
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=css" width="45"/><br/>CSS3
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=html" width="45"/><br/>HTML5
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=babel" width="45"/><br/>Babel
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=postman" width="45"/><br/>Postman
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=git" width="45"/><br/>Git
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=aws" width="45"/><br/>AWS
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=figma" width="45"/><br/>Figma
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br/>VS Code
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="45"/><br/>Ubuntu
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=arduino" width="45"/><br/>Arduino
+</td>
+</tr>
+</table>
+
+
+---
+
+
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olajaafreh&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=olajaafreh&theme=radical" height="160"/>
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Arduino-v1.8.13-lightgreen" alt="Arduino" />
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/AWS-v1.0-orange" alt="AWS" />
-    </a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Babel-v7.14.3-purple" alt="Babel" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Bootstrap-v5.0.0-lightblue" alt="Bootstrap" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/CSS-v3.0-blue" alt="CSS3" />
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Django-v3.2-green" alt="Django" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Express-v4.17.1-blue" alt="Express" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Figma-v1.0-lightpink" alt="Figma" />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Flask-v2.0.1-green" alt="Flask" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Git-v2.30.0-orange" alt="Git" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/HTML-v5.0-blue" alt="HTML5" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Node.js-v14.17.0-green" alt="Node.js" />
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Pandas-v1.2.1-blue" alt="Pandas" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Postman-v8.5.0-lightblue" alt="Postman" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/React-v17.0.1-blue" alt="React" />
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/React%20Native-v0.64.0-green" alt="React Native" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Spring-v5.3.6-lightgreen" alt="Spring" />
-    </a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/TensorFlow-v2.5.0-blue" alt="TensorFlow" />
-    </a>
-    <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Ubuntu-v20.04-orange" alt="Ubuntu" />
-    </a>
-    <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/VSCode-v1.58.0-lightblue" alt="VSCode" />
-    </a>
+---
+
+### 🚀 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olajaafreh&layout=compact&theme=merko" height="160"/>
 </p>
-
-
-<h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=olajaafreh&show_icons=true&hide_title=false&count_private=true&hide=prs&hide_border=false&theme=radical" alt="Ola Jaafreh's GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=olajaafreh&theme=radical&hide_border=false" alt="Ola Jaafreh's GitHub Streak">
-</p>
-
-
-<h3 align="left">My Top Languages:</h3>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olajaafreh&layout=compact&hide_title=true&theme=merko" alt="Top Languages"/>
-</p>
-
